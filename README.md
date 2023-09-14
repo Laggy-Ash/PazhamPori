@@ -7,7 +7,7 @@ Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. [Aswin](https://github.com/Laggy-Ash)
 2. [Devanarayanan](https://github.com/monke-kami)
-3. [Name 3](https://github.com/) 
+3. [Niyuktha](https://github.com/tinnycake) 
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
